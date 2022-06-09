@@ -1,0 +1,17 @@
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\bin\Debug\net6.0\BusinnessLayer.deps.json
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\bin\Debug\net6.0\BusinnessLayer.dll
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\bin\Debug\net6.0\ref\BusinnessLayer.dll
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\bin\Debug\net6.0\BusinnessLayer.pdb
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\obj\Debug\net6.0\BusinnessLayer.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\obj\Debug\net6.0\BusinnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\obj\Debug\net6.0\BusinnessLayer.AssemblyInfoInputs.cache
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\obj\Debug\net6.0\BusinnessLayer.AssemblyInfo.cs
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\obj\Debug\net6.0\BusinnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\obj\Debug\net6.0\BusinnessLayer.csproj.CopyComplete
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\obj\Debug\net6.0\BusinnessLayer.dll
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\obj\Debug\net6.0\ref\BusinnessLayer.dll
+C:\Users\talha\source\repos\CoreDemo\BusinnessLayer\obj\Debug\net6.0\BusinnessLayer.pdb
